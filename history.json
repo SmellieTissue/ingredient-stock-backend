@@ -1,0 +1,1012 @@
+[
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "ไม่ระบุ",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 1,
+    "remaining": -1,
+    "timestamp": "2025-07-20T17:40:31.075Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "ไม่ระบุ",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 2,
+    "remaining": -2,
+    "timestamp": "2025-07-20T17:40:32.546Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "ไม่ระบุ",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 1,
+    "remaining": -1,
+    "timestamp": "2025-07-20T17:40:34.018Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "ไม่ระบุ",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T17:40:35.796Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "ไม่ระบุ",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 1,
+    "remaining": -1,
+    "timestamp": "2025-07-20T17:41:17.514Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "ไม่ระบุ",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 2,
+    "remaining": -2,
+    "timestamp": "2025-07-20T17:41:18.471Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "ไม่ระบุ",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 3,
+    "remaining": -3,
+    "timestamp": "2025-07-20T17:41:19.102Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "ไม่ระบุ",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 4,
+    "remaining": -4,
+    "timestamp": "2025-07-20T17:41:19.678Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "ไม่ระบุ",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 5,
+    "remaining": -5,
+    "timestamp": "2025-07-20T17:41:20.134Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "ไม่ระบุ",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 6,
+    "remaining": -6,
+    "timestamp": "2025-07-20T17:41:20.561Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "ไม่ระบุ",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 5,
+    "remaining": -5,
+    "timestamp": "2025-07-20T17:41:22.645Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "ไม่ระบุ",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 4,
+    "remaining": -4,
+    "timestamp": "2025-07-20T17:41:22.785Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "ไม่ระบุ",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 3,
+    "remaining": -3,
+    "timestamp": "2025-07-20T17:41:22.951Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "ไม่ระบุ",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 2,
+    "remaining": -2,
+    "timestamp": "2025-07-20T17:41:23.140Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "ไม่ระบุ",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 1,
+    "remaining": -1,
+    "timestamp": "2025-07-20T17:41:23.821Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "ไม่ระบุ",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T17:41:24.558Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 1,
+    "remaining": -1,
+    "timestamp": "2025-07-20T18:23:22.692Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T18:23:24.721Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 1,
+    "remaining": -1,
+    "timestamp": "2025-07-20T18:23:27.399Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 2,
+    "remaining": -2,
+    "timestamp": "2025-07-20T18:23:27.576Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 3,
+    "remaining": -3,
+    "timestamp": "2025-07-20T18:23:27.741Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 4,
+    "remaining": -4,
+    "timestamp": "2025-07-20T18:23:27.894Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 5,
+    "remaining": -5,
+    "timestamp": "2025-07-20T18:23:28.026Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 6,
+    "remaining": -6,
+    "timestamp": "2025-07-20T18:23:28.182Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 7,
+    "remaining": -7,
+    "timestamp": "2025-07-20T18:23:28.346Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 8,
+    "remaining": -8,
+    "timestamp": "2025-07-20T18:23:28.742Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 9,
+    "remaining": -9,
+    "timestamp": "2025-07-20T18:23:28.893Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 10,
+    "remaining": -10,
+    "timestamp": "2025-07-20T18:23:29.449Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 9,
+    "remaining": -9,
+    "timestamp": "2025-07-20T18:23:34.261Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 8,
+    "remaining": -8,
+    "timestamp": "2025-07-20T18:23:35.416Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 9,
+    "remaining": -9,
+    "timestamp": "2025-07-20T18:23:36.708Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 10,
+    "remaining": -10,
+    "timestamp": "2025-07-20T18:23:50.736Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 11,
+    "remaining": -11,
+    "timestamp": "2025-07-20T18:23:50.941Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 12,
+    "remaining": -12,
+    "timestamp": "2025-07-20T18:23:51.110Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 13,
+    "remaining": -13,
+    "timestamp": "2025-07-20T18:23:52.119Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 12,
+    "remaining": -12,
+    "timestamp": "2025-07-20T18:24:01.305Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 11,
+    "remaining": -11,
+    "timestamp": "2025-07-20T18:24:02.116Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 12,
+    "remaining": -12,
+    "timestamp": "2025-07-20T18:24:03.042Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 13,
+    "remaining": -13,
+    "timestamp": "2025-07-20T18:24:03.185Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 14,
+    "remaining": -14,
+    "timestamp": "2025-07-20T19:02:52.307Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 15,
+    "remaining": -15,
+    "timestamp": "2025-07-20T19:02:52.474Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 16,
+    "remaining": -16,
+    "timestamp": "2025-07-20T19:02:52.672Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 15,
+    "remaining": -15,
+    "timestamp": "2025-07-20T19:02:55.430Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 14,
+    "remaining": -14,
+    "timestamp": "2025-07-20T19:02:55.619Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 13,
+    "remaining": -13,
+    "timestamp": "2025-07-20T19:02:57.661Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 12,
+    "remaining": -12,
+    "timestamp": "2025-07-20T19:02:58.262Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "พนักงาน",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 11,
+    "remaining": -11,
+    "timestamp": "2025-07-20T19:02:58.439Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 1,
+    "remaining": -1,
+    "timestamp": "2025-07-20T19:03:03.055Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 2,
+    "remaining": -2,
+    "timestamp": "2025-07-20T19:03:03.190Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 3,
+    "remaining": -3,
+    "timestamp": "2025-07-20T19:03:03.345Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 4,
+    "remaining": -4,
+    "timestamp": "2025-07-20T19:03:03.498Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 5,
+    "remaining": -5,
+    "timestamp": "2025-07-20T19:03:03.649Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 6,
+    "remaining": -6,
+    "timestamp": "2025-07-20T19:03:03.794Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 7,
+    "remaining": -7,
+    "timestamp": "2025-07-20T19:03:03.962Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 8,
+    "remaining": -8,
+    "timestamp": "2025-07-20T19:03:04.410Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 9,
+    "remaining": -9,
+    "timestamp": "2025-07-20T19:03:04.556Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 10,
+    "remaining": -10,
+    "timestamp": "2025-07-20T19:03:04.732Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "พนักงาน",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 9,
+    "remaining": -9,
+    "timestamp": "2025-07-20T19:03:07.355Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "พนักงาน",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 8,
+    "remaining": -8,
+    "timestamp": "2025-07-20T19:03:07.520Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 9,
+    "remaining": -9,
+    "timestamp": "2025-07-20T19:03:08.439Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 10,
+    "remaining": -10,
+    "timestamp": "2025-07-20T19:03:09.177Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": 1,
+    "user": "พนักงาน",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 11,
+    "remaining": -11,
+    "timestamp": "2025-07-20T19:03:09.620Z"
+  },
+  {
+    "name": "ผักแขนง",
+    "delta": 0,
+    "user": "admin",
+    "unit": "กิโลกรัม",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T19:18:46.015Z"
+  },
+  {
+    "name": "ผักแขนง",
+    "delta": 0,
+    "user": "admin",
+    "unit": "กิโลกรัม",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T19:18:46.212Z"
+  },
+  {
+    "name": "ผักแขนง",
+    "delta": 0,
+    "user": "admin",
+    "unit": "กิโลกรัม",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T19:18:46.379Z"
+  },
+  {
+    "name": "ผักแขนง",
+    "delta": 0,
+    "user": "admin",
+    "unit": "กิโลกรัม",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T19:18:46.554Z"
+  },
+  {
+    "name": "ผักแขนง",
+    "delta": 0,
+    "user": "admin",
+    "unit": "กิโลกรัม",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T19:18:46.794Z"
+  },
+  {
+    "name": "ผักแขนง",
+    "delta": 0,
+    "user": "admin",
+    "unit": "กิโลกรัม",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T19:18:47.281Z"
+  },
+  {
+    "name": "ผักแขนง",
+    "delta": 0,
+    "user": "admin",
+    "unit": "กิโลกรัม",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T19:18:47.733Z"
+  },
+  {
+    "name": "ผักแขนง",
+    "delta": 0,
+    "user": "admin",
+    "unit": "กิโลกรัม",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T19:18:47.924Z"
+  },
+  {
+    "name": "ผักแขนง",
+    "delta": 0,
+    "user": "admin",
+    "unit": "กิโลกรัม",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T19:18:48.137Z"
+  },
+  {
+    "name": "ผักแขนง",
+    "delta": 0,
+    "user": "admin",
+    "unit": "กิโลกรัม",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T19:18:48.505Z"
+  },
+  {
+    "name": "ผักแขนง",
+    "delta": 0,
+    "user": "admin",
+    "unit": "กิโลกรัม",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T19:18:56.560Z"
+  },
+  {
+    "name": "ผักแขนง",
+    "delta": 0,
+    "user": "admin",
+    "unit": "กิโลกรัม",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T19:18:56.709Z"
+  },
+  {
+    "name": "ผักแขนง",
+    "delta": 0,
+    "user": "admin",
+    "unit": "กิโลกรัม",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T19:19:04.246Z"
+  },
+  {
+    "name": "ผักแขนง",
+    "delta": 0,
+    "user": "admin",
+    "unit": "กิโลกรัม",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T19:19:04.440Z"
+  },
+  {
+    "name": "ผักแขนง",
+    "delta": 0,
+    "user": "admin",
+    "unit": "กิโลกรัม",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T19:19:10.122Z"
+  },
+  {
+    "name": "ผักแขนง",
+    "delta": 0,
+    "user": "admin",
+    "unit": "กิโลกรัม",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T19:19:11.086Z"
+  },
+  {
+    "name": "ผักแขนง",
+    "delta": 0,
+    "user": "admin",
+    "unit": "กิโลกรัม",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T19:19:13.451Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "admin",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 10,
+    "remaining": -10,
+    "timestamp": "2025-07-20T19:44:06.433Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "admin",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 9,
+    "remaining": -9,
+    "timestamp": "2025-07-20T19:44:06.721Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "admin",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 8,
+    "remaining": -8,
+    "timestamp": "2025-07-20T19:44:06.867Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "admin",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 7,
+    "remaining": -7,
+    "timestamp": "2025-07-20T19:44:07.021Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "admin",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 6,
+    "remaining": -6,
+    "timestamp": "2025-07-20T19:44:07.172Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "admin",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 5,
+    "remaining": -5,
+    "timestamp": "2025-07-20T19:44:07.318Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "admin",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 4,
+    "remaining": -4,
+    "timestamp": "2025-07-20T19:44:07.478Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "admin",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 3,
+    "remaining": -3,
+    "timestamp": "2025-07-20T19:44:07.607Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "admin",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 2,
+    "remaining": -2,
+    "timestamp": "2025-07-20T19:44:07.760Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "admin",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 1,
+    "remaining": -1,
+    "timestamp": "2025-07-20T19:44:08.048Z"
+  },
+  {
+    "name": "ยีสต์",
+    "delta": -1,
+    "user": "admin",
+    "unit": "กล่อง",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T19:44:08.359Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "admin",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 10,
+    "remaining": -10,
+    "timestamp": "2025-07-20T19:44:09.905Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "admin",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 9,
+    "remaining": -9,
+    "timestamp": "2025-07-20T19:44:10.036Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "admin",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 8,
+    "remaining": -8,
+    "timestamp": "2025-07-20T19:44:12.956Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "admin",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 7,
+    "remaining": -7,
+    "timestamp": "2025-07-20T19:44:13.125Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "admin",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 6,
+    "remaining": -6,
+    "timestamp": "2025-07-20T19:44:13.298Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "admin",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 5,
+    "remaining": -5,
+    "timestamp": "2025-07-20T19:44:13.461Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "admin",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 4,
+    "remaining": -4,
+    "timestamp": "2025-07-20T19:44:13.618Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "admin",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 3,
+    "remaining": -3,
+    "timestamp": "2025-07-20T19:44:13.769Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "admin",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 2,
+    "remaining": -2,
+    "timestamp": "2025-07-20T19:44:14.124Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "admin",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 1,
+    "remaining": -1,
+    "timestamp": "2025-07-20T19:44:14.396Z"
+  },
+  {
+    "name": "ออริกาโน่",
+    "delta": -1,
+    "user": "admin",
+    "unit": "ถุง",
+    "initial": 0,
+    "used": 0,
+    "remaining": 0,
+    "timestamp": "2025-07-20T19:44:14.576Z"
+  }
+]

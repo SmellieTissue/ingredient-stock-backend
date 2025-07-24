@@ -1,0 +1,1075 @@
+[
+  {
+    "category": "พิซซ่า",
+    "ingredients": [
+      {
+        "name": "ออริกาโน่",
+        "unit": "ถุง",
+        "start": 2,
+        "used": 0,
+        "remaining": 2,
+        "purchase": 0
+      },
+      {
+        "name": "น้ำมันมะกอก Olive oil",
+        "unit": "ขวด",
+        "start": 2,
+        "used": 0,
+        "remaining": 2,
+        "purchase": 0
+      },
+      {
+        "name": "ชีส",
+        "unit": "ก้อน",
+        "start": 2,
+        "used": 0,
+        "remaining": 2,
+        "purchase": 0
+      },
+      {
+        "name": "พาร์เมซานชีสแบบผง",
+        "unit": "ถุง",
+        "start": 1,
+        "used": 0,
+        "remaining": 1,
+        "purchase": 0
+      },
+      {
+        "name": "ยีสต์",
+        "unit": "กล่อง",
+        "start": 1,
+        "used": 0,
+        "remaining": 1,
+        "purchase": 0
+      },
+      {
+        "name": "แป้งพิซซ่า",
+        "unit": "กระสอบ",
+        "start": 1,
+        "used": 0,
+        "remaining": 1,
+        "purchase": 0
+      }
+    ]
+  },
+  {
+    "category": "ผักสด",
+    "ingredients": [
+      {
+        "name": "ผักแขนง",
+        "unit": "กิโลกรัม",
+        "start": 2,
+        "used": 0,
+        "remaining": 2,
+        "purchase": 0
+      },
+      {
+        "name": "ผักคะน้า",
+        "unit": "กิโลกรัม",
+        "start": 2,
+        "used": 0,
+        "remaining": 2,
+        "purchase": 0
+      },
+      {
+        "name": "ผักบุ้ง",
+        "unit": "กิโลกรัม",
+        "start": 2,
+        "used": 0,
+        "remaining": 2,
+        "purchase": 0
+      },
+      {
+        "name": "ผักกุยช่ายขาว",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ผักกระเฉด",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ผักรวม",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ผักกาดขาว",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ใบเหลียง",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ผักชี",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ต้นหอม",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "คื่นฉ่าย",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ผักสลัดกรี๊นโอ็คแต่งจาน",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "กะหล่ำปลี",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "กะหล่ำม่วง",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "พริกจินดาแดง",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "พริกขี้หนูสวน (เขียว)",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "พริกหยวก",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "พริกชี้ฟ้าแดง",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "พริกชี้ฟ้าเขียว",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "พริกสามสี",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "พริกไทยสด",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "พริกแกง",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "เห็ดต้มยำ",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ตะไคร้",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ข่าต้มยำ",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ขิงซอย",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ขิงสด",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "กระชาย",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ใบเลื่อย",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ใบมะกรูด",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ใบโหระพา",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ใบสาระแหน่",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ใบกระเพรา",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ใบกระเพราควาย",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "หอมแดง",
+        "unit": "กระสอบ",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "หอมใหญ่",
+        "unit": "กระสอบ",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "กระเทียม",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "มะนาว",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "มะเขือเทศ",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "มะเขือเปราะ",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "มะเขือพวง",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "แตงกวา",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "มะระ",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "มะละกอ",
+        "unit": "ลูก",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ถั่วฝักยาว",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "แครอท",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "หัวไชเท้า",
+        "unit": "หัว",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ข้าวโพดอ่อน",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "บล็อกโคลี่",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      }
+    ]
+  },
+  {
+    "category": "ผลไม้",
+    "ingredients": [
+      {
+        "name": "มะพร้าวห่อหมก",
+        "unit": "ลูก",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "สับปะรด",
+        "unit": "ลูก",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ข้าวโพด",
+        "unit": "ฝัก",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "มะม่วง",
+        "unit": "ลูก",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "แอปเปิ้ล",
+        "unit": "ลูก",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "แตงโม",
+        "unit": "ลูก",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ส้ม",
+        "unit": "ลูก",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "แก้วมังกร",
+        "unit": "ลูก",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      }
+    ]
+  },
+  {
+    "category": "เครื่องปรุง",
+    "ingredients": [
+      {
+        "name": "น้ำมันขวด",
+        "unit": "ขวด",
+        "start": 1,
+        "used": 0,
+        "remaining": 1,
+        "purchase": 0
+      },
+      {
+        "name": "น้ำมันงา",
+        "unit": "ขวด",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "น้ำมันหอย",
+        "unit": "แกลลอน",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "น้ำปลาทิพรส",
+        "unit": "แกลลอน",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "น้ำปลาหอยนางรม",
+        "unit": "ขวด",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "น้ำมะนาวขวด",
+        "unit": "ขวด",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "น้ำปลาร้า",
+        "unit": "ขวด",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "น้ำมะขามเปียก",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "น้ำตาลปี๊บ",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "น้ำตาลทราย",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "น้ำเชื่อม",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "นมสดคาร์เนชั่น",
+        "unit": "กระป๋อง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "เกลือ",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ผงชูรส",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "น้ำกะทิ",
+        "unit": "ขวด",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "น้ำพริกเผาต้มยำ",
+        "unit": "กระป๋อง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "น้ำพริกเผาหอยนางรม",
+        "unit": "กระป๋อง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "น้ำมันพริกเผา",
+        "unit": "ขวด",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "น้ำจิ้มบ๊วย",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "น้ำจิ้มไก่",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "น้ำจิ้มสุกี้",
+        "unit": "แกลลอน",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ซอสมะเขือเทศ",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ซอสพริก",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "เต้าเจี้ยว",
+        "unit": "ขวด",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ซอสฝาเขียว",
+        "unit": "ขวด",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ซีอิ๊วขาว",
+        "unit": "ขวด",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ซีอิ๊วหวาน",
+        "unit": "ขวด",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ซีอิ๊วดำ",
+        "unit": "ขวด",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ชีสดิป",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "โซยุ Aro",
+        "unit": "แกลลอน",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "Kingkoman",
+        "unit": "แกลลอน",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "เทอริยากิ",
+        "unit": "แกลลอน",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "น้ำผึ้งไซรัป",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      }
+    ]
+  },
+  {
+    "category": "เครื่องเทศ&ของแห้ง&กระป๋อง",
+    "ingredients": [
+      {
+        "name": "พริกป่น",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "พริกไทยดำ",
+        "unit": "ขวด",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "พริกแห้งทอด",
+        "unit": "กระปุก",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "หอมเจียว",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "กระเทียมเจียว",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "เม็ดมะม่วง",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ถั่วทอด",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "กุ้งแห้ง",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ปลาหมึกแห้ง",
+        "unit": "กิโลกรัม",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "สาหร่ายห่อ",
+        "unit": "แพ็ค",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "สาหร่ายแห้ง",
+        "unit": "แถว",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "เห็ดหอมแห้ง",
+        "unit": "ห่อ",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "เส้นหมี่แห้ง",
+        "unit": "ห่อ",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ขนมจีนแห้ง",
+        "unit": "ห่อ",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "เส้นเล็ก",
+        "unit": "ห่อ",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "เส้นสปาเกตตี้",
+        "unit": "ห่อ",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "งาขาว",
+        "unit": "ห่อ",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "แป้งทอดกรอบ",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "แป้งมันสำปะหลัง",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "แป้งข้าวเจ้า",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "แป้งข้าวโพด",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "แป้งมันฮ่องกง",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "แป้งเท้ายายม่อม",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "แป้งเค้ก",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "เกล็ดขนมปัง",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ผงกระหรี่",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ผงฟู",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "หนำเลียบกระป๋อง",
+        "unit": "กระป๋อง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "ผักกาดกระป๋อง",
+        "unit": "แพ็ค",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "บ๊วยดอง",
+        "unit": "กระปุก",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "กระเทียมโทน",
+        "unit": "กระปุก",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "เนยเค็ม (allouvie)",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "วาซาบิแช่แข็ง",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "เฟรนฟรายซ์ 10mm",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      },
+      {
+        "name": "พาร์สลีย์",
+        "unit": "ถุง",
+        "start": 0,
+        "used": 0,
+        "remaining": 0,
+        "purchase": 0
+      }
+    ]
+  }
+]

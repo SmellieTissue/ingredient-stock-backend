@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ระบบวัตถุดิบร้านอาหาร</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      padding: 1rem;
+      background: #f9f9f9;
+    }
+    h2 {
+      margin-top: 2rem;
+      margin-bottom: 0.5rem;
+      color: #333;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 2rem;
+      background: #fff;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 0.5rem;
+      text-align: center;
+    }
+    th {
+      background-color: #eee;
+    }
+    button {
+      padding: 4px 8px;
+      margin: 0 2px;
+      cursor: pointer;
+    }
+    .field-cell {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 6px;
+    }
+    .search-bar {
+      margin-bottom: 1rem;
+    }
+    .search-bar input {
+      padding: 6px;
+      width: 100%;
+      max-width: 400px;
+      font-size: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>ระบบจัดการวัตถุดิบร้านอาหาร</h1>
+
+  <div class="search-bar">
+    <input type="text" id="searchInput" placeholder="🔍 ค้นหาชื่อวัตถุดิบ...">
+  </div>
+
+  <div id="ingredientTables"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
